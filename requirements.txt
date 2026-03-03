@@ -1,0 +1,17 @@
+# The Core Engine
+langchain
+langchain-core
+langchain-community
+
+# Partner Integrations
+langchain-google-genai
+langchain-pinecone
+
+# Supporting Libraries
+flask
+pypdf
+python-dotenv
+sentence-transformers
+torch
+
+-e .
